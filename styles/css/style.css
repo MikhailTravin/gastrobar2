@@ -181,7 +181,7 @@ body {
 Снипет (HTML): cnt
 */
 [class*="__container"] {
-    width: 58.25vw;
+    /*width: 58.25vw;*/
     max-width: 100%;
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
